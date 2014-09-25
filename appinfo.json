@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Jaeman1999",
+    "longName": "Pebble Tree",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/thumb.png",
+                "menuIcon": true,
+                "name": "thumb",
+                "type": "png"
+            },
+            {
+                "file": "images/bulb.png",
+                "name": "bulb",
+                "type": "png"
+            },
+            {
+                "file": "images/staged.png",
+                "name": "staged",
+                "type": "png"
+            },
+            {
+                "file": "images/def.png",
+                "name": "def",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Pebble Tree",
+    "uuid": "78ea6958-ac22-45e8-bb34-c3f6c952b178",
+    "versionCode": 1,
+    "versionLabel": "1.0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
